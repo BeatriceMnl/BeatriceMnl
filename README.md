@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Beatrice Elmira Manalo  
 
-🎓 BS Computer Science Graduate | 💻 Front-End Developer | 🎮 Game Dev (Unity/VR) | 📱 Mobile App Dev (Flutter) | 🎨 UI/UX Enthusiast  
+🎓 BS Computer Science Graduate | 💻 Front-End Developer | 🎮 Game Dev (Unity/VR) | 📱 Mobile App Dev (Flutter) | 🎨 UI/UX  
 
 ---
 
 ## 🚀 About Me  
 - 🌱 Sharpening my **React, Next.js, Flutter, and Unity** skills
-- 💻 Currently learning TypeScript
+- 💻 Currently learning TypeScript and Backend Development
 - 🏆 Best Thesis Awardee (VR Earthquake Game: *Quake Escape*)  
 - 🎤 Presented different projects at **IPOPHL**, **DITECH Fair**, **Tech4Life Summit** & **Harvard WORLDMUN - Resolution Project 2025**
 - 💡 Passionate about **Creative Tech Innovations** in apps & games  
