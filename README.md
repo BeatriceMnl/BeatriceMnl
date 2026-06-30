@@ -1,30 +1,21 @@
-# 👋 Hi, I’m Beatrice Elmira Manalo  
-
-🎓 BS Computer Science Graduate | 💻 Front-End Developer | 🎮 Game Dev (Unity/VR) | 📱 Mobile App Dev (Flutter) | 🎨 UI/UX  
+![Loading Animation](./RepoAssets/loading.gif)
 
 ---
-
-## 🚀 About Me  
-- 🌱 Sharpening my **React, Next.js, Flutter, and Unity** skills
-- 💻 Currently learning TypeScript and Backend Development
-- 🏆 Best Thesis Awardee (VR Earthquake Game: *Quake Escape*)  
-- 🎤 Presented different projects at **IPOPHL**, **DITECH Fair**, **Tech4Life Summit** & **Harvard WORLDMUN - Resolution Project 2025**
-- 💡 Passionate about **Creative Tech Innovations** in apps & games  
+<img width="1152" height="648" alt="About Beatrice Elmira" src="https://github.com/user-attachments/assets/3ccbe008-97f7-4ab4-bdc4-1deb0f506860" />
 
 ---
+<p align="center">
+  <a href="mailto:beatriceelmiramanalo@gmail.com">
+    <img src="https://img.icons8.com/?size=100&id=tnnUFgHrPmR0&format=png&color=000000" width="32"alt="Gmail"/>
+  </a>
 
-## 🛠️ Tech Stack  
-- **Languages:** C++, C#, Python, JavaScript, SQL  
-- **Front-End:** React, Next.js, TailwindCSS, HTML, CSS  
-- **Mobile:** Flutter (Dart)  
-- **Game Dev:** Unity (2D/3D/VR)  
-- **Tools:** Git, Figma, Firebase  
+  <a href="https://www.linkedin.com/in/beatriceelmiramanalo">
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="32" alt="LinkedIn">
+  </a>
 
----
-
-## 🤝 Connect with Me  
-📫 Email: beatriceelmiramanalo@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/beatriceelmiramanalo)  
-🎮 [itch.io](https://beatricemnl.itch.io/)  
+  <a href="https://beatricemnl.itch.io/">
+    <img src="https://img.icons8.com/?size=100&id=BRyg1TknzKtA&format=png&color=FA5252" width="30" alt="itch.io">
+  </a>
+</p>
 
 
